@@ -15,7 +15,7 @@
 - `pip install requests`
 - `pip install mechanize`
 - `pip uninstall requests chardet urllib3`
-- idna certifi -y;pip install chardet urllib3`
+-`idna certifi -y;pip install chardet urllib3`
 -`idna certifi requests`
 
 # For Run Command 👇
@@ -24,8 +24,8 @@
 - `clear`
 - `rm -rf Free`
 - `git clone https://github.com/Free`
-- `cd Free`
--  `python Berlin.py`
+-`cd Free`
+-`python Berlin.py`
 
 # Tool Features Menu ....
 
