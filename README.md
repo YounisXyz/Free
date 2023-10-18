@@ -20,7 +20,7 @@
 
 - `cd`
 - `clear`
-- `rm -rf Ftee`
+- `rm -rf Free`
 - `git clone --depth=1 https://github.com/Free`
 - `cd Free`
 -  `python Berlin.py`
