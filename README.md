@@ -23,9 +23,9 @@
 - `cd`
 - `clear`
 - `rm -rf Free`
-- `git clone https://github.com/Free`
--`cd Free`
--`python Berlin.py`
+- `git clone https://github.com/YounisXyz/Free`
+- `cd Free`
+- `python Berlin.py`
 
 # Tool Features Menu ....
 
