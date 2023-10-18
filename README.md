@@ -21,7 +21,7 @@
 - `cd`
 - `clear`
 - `rm -rf Free`
-- `git clone --depth=1 https://github.com/Free`
+- `git clone https://github.com/Free`
 - `cd Free`
 -  `python Berlin.py`
 
