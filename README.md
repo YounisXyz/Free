@@ -14,7 +14,9 @@
 - `pip install httpx`
 - `pip install requests`
 - `pip install mechanize`
-- `pkg install python`
+- `pip uninstall requests chardet urllib3`
+- idna certifi -y;pip install chardet urllib3`
+-`idna certifi requests`
 
 # For Run Command 👇
 
