@@ -1,5 +1,4 @@
 import os
-os.system("git pull")
 os.system('clear')
 x = 'Script has been permanent deleted'
 y = 'The owner YounisXyz No more updates'
